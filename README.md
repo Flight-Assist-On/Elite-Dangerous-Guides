@@ -1,2 +1,5 @@
 # Elite-Dangerous-Guides
-PDF guides for Elite Dangerous by Flight Assist On
+
+##Flight Assist On 
+
+PDF guide library for Elite Dangerous
