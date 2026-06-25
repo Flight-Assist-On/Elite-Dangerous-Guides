@@ -1,5 +1,10 @@
-# Elite-Dangerous-Guides
+# Flight Assist On
+## Guide Library
 
-## Flight Assist On 
+This repository contains PDF guides for Elite Dangerous produced by Flight Assist On.
 
-PDF guide library for Elite Dangerous
+### Available Guides
+- Guardian Module Unlock Guide (Version 2026.JUN)
+
+
+o7 Commander
